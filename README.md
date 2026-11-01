@@ -3,10 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="#-sobre-mim">Sobre mim</a> ·
-  <a href="#-tecnologias">Tecnologias</a> ·
-  <a href="#-projetos-em-destaque">Projetos</a>
+  <a href="#sobre-mim">Sobre mim</a> ·
+  <a href="#tecnologias">Tecnologias</a> ·
+  <a href="#projetos">Projetos</a>
 </p>
+
+<a id="sobre-mim"></a>
 
 ## 👋 Sobre mim
 
@@ -18,11 +20,15 @@ Aprendo construindo projetos e revisitando o código para torná-lo mais organiz
 - 🧩 **Na prática:** organização em classes, encapsulamento e separação de responsabilidades.
 - 🎨 **Também exploro:** interfaces com HTML e CSS.
 
+<a id="tecnologias"></a>
+
 ## 🛠️ Tecnologias
 
 <p align="center">
   <img src="assets/stack.svg" width="640" alt="Java, programação orientada a objetos, HTML e CSS" />
 </p>
+
+<a id="projetos"></a>
 
 ## 🚀 Projetos em destaque
 
