@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="98" viewBox="0 0 800 98" role="img" aria-label="Java, POO, HTML e CSS">
+ <g font-family="DejaVu Sans,sans-serif" font-weight="bold">
+  <rect x="4" y="4" width="186" height="90" rx="15" fill="#241e22" stroke="#ed995e"/>
+  <path d="M31 36h25v14c0 12-25 12-25 0zM57 38c15-2 15 15 0 13M28 65h33M40 28c-6-7 8-8 3-16" fill="none" stroke="#ffb36e" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="79" y="57" fill="#ffc18d" font-size="22">Java</text>
+  <rect x="206" y="4" width="186" height="90" rx="15" fill="#231f36" stroke="#a98af3"/>
+  <g fill="none" stroke="#c5a8ff" stroke-width="2.5"><rect x="236" y="23" width="20" height="18" rx="4"/><path d="M246 42v12m-12 0h25m-25 0v8m25-8v8"/><rect x="224" y="62" width="19" height="15" rx="3"/><rect x="250" y="62" width="19" height="15" rx="3"/></g>
+  <text x="286" y="57" fill="#d2baff" font-size="22">POO</text>
+  <rect x="408" y="4" width="186" height="90" rx="15" fill="#292025" stroke="#f4828e"/>
+  <text x="428" y="57" fill="#ff9caa" font-family="DejaVu Sans Mono,monospace" font-size="23">&lt;/&gt;</text>
+  <text x="490" y="57" fill="#ffb0ba" font-size="22">HTML</text>
+  <rect x="610" y="4" width="186" height="90" rx="15" fill="#152a34" stroke="#62cfdb"/>
+  <text x="633" y="57" fill="#70e0df" font-family="DejaVu Sans Mono,monospace" font-size="25">{ }</text>
+  <text x="697" y="57" fill="#99e7ec" font-size="22">CSS</text>
+ </g>
+</svg>
