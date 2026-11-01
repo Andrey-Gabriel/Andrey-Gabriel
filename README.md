@@ -12,7 +12,7 @@
 
 ## Oi, eu sou o Andrey
 
-Sou estudante de Engenharia de Software e estou focando meus estudos em **Java e desenvolvimento backend**. Neste semestre, também aprendi **MySQL** na faculdade.
+Sou estudante de Engenharia de Software e estou focando meus estudos em **Java e desenvolvimento backend**.
 
 Tenho colocado em prática o que aprendo nos meus projetos. No Jogo da Forca, comecei pela lógica do jogo e depois voltei ao código para aplicar orientação a objetos e organizar melhor as classes.
 
@@ -22,7 +22,7 @@ Aqui você encontra alguns desses projetos e o que tenho estudado.
 
 ## Tecnologias
 
-<img src="assets/stack.svg" width="360" alt="Java e MySQL" />
+<img src="assets/stack.svg" width="144" alt="Java e MySQL" />
 
 Por enquanto, meus projetos estão mais voltados a Java. MySQL entrou nos meus estudos neste semestre e ainda não aparece em um projeto por aqui.
 
